@@ -6,6 +6,7 @@ It's designed to showcase the basic functionality of a Todo List.
 
 ## Features
 - Add new todo items.
+- Add subtask items.
 - Mark todos as completed.
 - Delete todos from the list.
 
