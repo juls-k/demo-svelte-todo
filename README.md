@@ -1,7 +1,8 @@
 # Simple Svelte Todo List (Practice project)
 
 This project is a web app that implements an extremely simple Todo List using Svelte.
-It's designed to showcase the basic functionality of a Todo List, demonstrating the simplicity and elegance of Svelte in web application development.
+
+It's designed to showcase the basic functionality of a Todo List.
 
 ## Features
 - Add new todo items.
